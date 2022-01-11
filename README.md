@@ -5,15 +5,18 @@ A Full Stack App where users can view popular quotes from current and historical
 - Developed the front-end using Vue.js 
 - Deployed the backend with API on Heroku and frontend on Netlify
 
-## To Use
 
-### Deployed Version: https://quotes-app-v1.netlify.app/
+
+## Deployed Version
+
+https://quotes-app-v1.netlify.app/
+
+## To Use
 
 Click on View Quotes to view famous quotes from current or historical figures.
 You can also search for a person in the search bar
 
 ## Demo
 
-
-![image](https://lh3.googleusercontent.com/EwF8jVpFESKra2TbkaK3HkNvrq9HRdhCciYDgs9uJAhUWBKui3jrmv_A5dhuZR5tUDUmCy0=s170)
-
+![Document](https://user-images.githubusercontent.com/79553858/149013327-16ea8242-5a51-46c2-96dd-82d21d78eb4a.gif)
+![Document (1)](https://user-images.githubusercontent.com/79553858/149013334-0082c05b-e198-4a69-bfc7-5bfb83318714.gif)
