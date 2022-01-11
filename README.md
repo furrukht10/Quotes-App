@@ -1,11 +1,13 @@
 <h1 align ="center" > Quotes App </h1>
-A Full Stack App where users can view popular quotes from current and historical figures 
+A Full Stack Application where users can view popular quotes from current and historical figures 
 </br>
 </br>
 
-- Utilized Python and Flask for the backend and implemented Webscraping to fetch data </br>
-- Developed the front-end using Vue.js </br>
-- Deployed the backend with API on Heroku and frontend on Netlify </br>
+- Designed a Full Stack application where users can view quotes from current and historical figures.</br>
+- Utilized Python and Flask for the back-end.</br>
+- Performed Webscraping to fetch data from API and Wikipedia.</br>
+- Utilized Vue.js and Bootstrap for front-end rendering and styling.</br>
+
 
 ## Deployed Version
 
